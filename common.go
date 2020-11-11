@@ -1,4 +1,4 @@
-package tmst
+package common
 
 import (
 	"bufio"
